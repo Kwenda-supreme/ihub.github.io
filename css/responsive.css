@@ -253,6 +253,7 @@
     .navigation.navbar-dark .navbar-toggler-icon {
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
+        background-color: #ce209ab2;
     }
 
     .stream{
