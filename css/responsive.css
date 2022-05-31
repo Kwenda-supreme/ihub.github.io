@@ -44,6 +44,12 @@
         padding: 8px 15px;
         font-size: 14px;
     }
+    
+    .navigation.navbar-dark .navbar-toggler-icon {
+        background: url(../images/menu_icon.png);
+        background-repeat: no-repeat;
+        background-color: #ce209ab2;
+    }
     .navigation.navbar {
         padding: 27px 16px 27px 0;
     }
